@@ -1,6 +1,4 @@
-/*
-    CodeWars - KOTLIN
- */
+
 
 fun main() {
     println(isPalindrome1("put it up"))
